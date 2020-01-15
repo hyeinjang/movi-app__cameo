@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3420985dc5f7f0065e761feb287a0dce",
+    "revision": "24ca73dc9985e9166efe746a22c21b7b",
     "url": "/movie-app__cameo/index.html"
   },
   {
